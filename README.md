@@ -32,7 +32,7 @@
 ```bash
 ffmpeg -version
 ```
-如果没有，请前往https://ffmpeg.org/获取程序
+如果没有，请前往https://ffmpeg.org/ 获取程序
 然后运行：
 
 ```bash
